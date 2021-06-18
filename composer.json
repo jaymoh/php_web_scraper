@@ -4,9 +4,13 @@
         "guzzlehttp/guzzle": "^7.3",
         "fabpot/goutte": "^4.0",
         "masterminds/html5": "^2.7",
-        "simplehtmldom/simplehtmldom": "^2.0@RC"
+        "simplehtmldom/simplehtmldom": "^2.0@RC",
+        "symfony/panther": "^1.0"
     },
 
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "require-dev": {
+        "dbrekelmans/bdi": "^0.3.0"
+    }
 }

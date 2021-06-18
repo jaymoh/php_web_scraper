@@ -1,0 +1,9 @@
+/vendor
+.env
+/.idea
+.history
+.DS_Store
+
+.tmp
+*.tmp
+.vscode

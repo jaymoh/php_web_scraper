@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.3",
+        "fabpot/goutte": "^4.0",
+        "masterminds/html5": "^2.7",
+        "simplehtmldom/simplehtmldom": "^2.0@RC"
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

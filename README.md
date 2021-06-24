@@ -7,6 +7,6 @@ Clone into your machine, then inside the project directory run
 
 `composer install`
 
-You can execute the files individually on your terminal as explained in this tutorial 
+You can execute the files individually on your terminal as explained in this <a href="https://www.scrapingdog.com/blog/web-scraping-with-php"> PHP Web Scraping tutorial </a> 
 
 Enjoy!
